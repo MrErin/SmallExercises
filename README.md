@@ -24,3 +24,6 @@ This repo holds a bunch of projects and exercises that require no more than one 
     * [Grades JS](./grades.js) & [HTML](gradesindex.html)
 * Arrays and Databases
     * [Rainfall](./rainfall.js)
+* CSS
+    * [CSS Selectors CSS](./CSSSelectors.css) & [HTML](./CSSSelectorsIndex.html)
+    * [Personality Website CSS](./PersonalityCSS.css) & [HTML](./PersonalityIndex.html)
