@@ -16,7 +16,7 @@ This repo holds a bunch of projects and exercises that require no more than one 
 * Math
     * [Coins to Cash/Cash to Coins JS](./Math/coinsToCash.js) & [HTML](./Math/coinsToCashIndex.html)
 * Working with Objects
-    * [Elizabeth Sanger JS](./WorkingWithObjects/ElizabethSangerObjects.js) & [HTML](./WorkingWithObjects/ElizabethSangerIndex.html]
+    * [Elizabeth Sanger JS](./WorkingWithObjects/ElizabethSangerObjects.js) & [HTML](./WorkingWithObjects/ElizabethSangerIndex.html)
 * Printing to the DOM
     * [GovTrack](./PrintingToDOM/govtrack.html)
     * [Mod Squad JS](./Scope/ModSquad.js) & [HTML](./Scope/ModSquadIndex.html)
