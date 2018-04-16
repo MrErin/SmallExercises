@@ -4,26 +4,27 @@
 This repo holds a bunch of projects and exercises that require no more than one .js file and possibly one .html file. 
 
 * Basic Logic
-    * [Chicken Monkey](./ChickenMonkey.js)
-    * [Take a Number](./takeANumber.js)
-    * [Overly Excited](./overly-excited.js)
+    * [Chicken Monkey](./BasicLogic/ChickenMonkey.js)
+    * [Take a Number](./BasicLogic/takeANumber.js)
+    * [Overly Excited](./BasicLogic/overly-excited.js)
 * Scope Practice
-    * [C Is For Cookie](./CIsForCookie.js)
-    * [Conjunction Function](./ConjunctionFunction.js)
-    * [Lambda Llama](./LambdaLlama.js)
-    * [Mod Squad JS](./ModSquad.js) & [HTML](./ModSquadIndex.html)
-    * [Simon Says](./SimonSays.js)
+    * [C Is For Cookie](./Scope/CIsForCookie.js)
+    * [Conjunction Function](./Scope/ConjunctionFunction.js)
+    * [Lambda Llama](./Scope/LambdaLlama.js)
+    * [Mod Squad JS](./Scope/ModSquad.js) & [HTML](./Scope/ModSquadIndex.html)
+    * [Simon Says](./Scope/SimonSays.js)
 * Math
-    * [Coins to Cash/Cash to Coins JS](./coinsToCash.js) & [HTML](./coinsToCashIndex.html)
+    * [Coins to Cash/Cash to Coins JS](./Math/coinsToCash.js) & [HTML](./Math/coinsToCashIndex.html)
 * Working with Objects
-    * [Elizabeth Sanger JS](ElizabethSangerObjects.js) & [HTML](ElizabethSangerIndex.html]
+    * [Elizabeth Sanger JS](./WorkingWithObjects/ElizabethSangerObjects.js) & [HTML](./WorkingWithObjects/ElizabethSangerIndex.html]
 * Printing to the DOM
-    * [GovTrack](./govtrack.html)
-    * [Mod Squad JS](./ModSquad.js) & [HTML](./ModSquadIndex.html)
+    * [GovTrack](./PrintingToDOM/govtrack.html)
+    * [Mod Squad JS](./Scope/ModSquad.js) & [HTML](./Scope/ModSquadIndex.html)
+    * [DOM Components and Document Fragments JS](./PrintingToDOM/DOMComponents.js) & [HTML](./PrintingToDOM/DOMComponents.html)
 * Arrow Function and Map, Filter, Reduce
-    * [Grades JS](./grades.js) & [HTML](gradesindex.html)
+    * [Grades JS](./ArrowSyntax/grades.js) & [HTML](./ArrowSyntax/gradesindex.html)
 * Arrays and Databases
-    * [Rainfall](./rainfall.js)
+    * [Rainfall](./Databases/rainfall.js)
 * CSS
-    * [CSS Selectors CSS](./CSSSelectors.css) & [HTML](./CSSSelectorsIndex.html)
-    * [Personality Website CSS](./PersonalityCSS.css) & [HTML](./PersonalityIndex.html)
+    * [CSS Selectors CSS](./CSS/CSSSelectors.css) & [HTML](./CSS/CSSSelectorsIndex.html)
+    * [Personality Website CSS](./CSS/PersonalityCSS.css) & [HTML](./CSS/PersonalityIndex.html)
