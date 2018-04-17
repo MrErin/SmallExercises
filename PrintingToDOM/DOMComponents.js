@@ -13,9 +13,11 @@ const repeatingDOMBuilder = () => {
 			const chatBubble = document.createElement('section')
 
 			//create chat message
-			const chatContent = document.createElement('p')
-			chatContent.textContent = itemInArray
-			chatBubble.appendChild(chatContent)
+
+			// const chatContent = document.createElement('p')
+
+			chatBubble.textContent = itemInArray
+			// chatBubble.appendChild(chatContent)
 			fragment.appendChild(chatBubble)
 		})
 	document.querySelector('#messages').appendChild(fragment)
