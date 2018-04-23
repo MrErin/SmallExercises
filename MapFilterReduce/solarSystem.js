@@ -56,3 +56,9 @@ console.log(filteredPlanets)
 
 // Use the reduce method to create a sentence from the words in the following array
 const words = ['The', 'early', 'bird', 'might', 'get', 'the', 'worm', 'but', 'the', 'second', 'mouse', 'gets', 'the', 'cheese']
+
+const sentence = words.reduce(
+	(partial, next) => partial + ' ' + next
+)
+
+console.log(sentence)
