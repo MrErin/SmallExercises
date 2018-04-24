@@ -28,5 +28,6 @@ This repo holds a bunch of projects and exercises that require no more than one 
 * CSS
   * [CSS Selectors CSS](./CSS/CSSSelectors.css) & [HTML](./CSS/CSSSelectorsIndex.html)
   * [Personality Website CSS](./CSS/PersonalityCSS.css) & [HTML](./CSS/PersonalityIndex.html)
-* Map, Filter, Reduce, Etc.
+* Map, Filter, Reduce, ForEach, Etc.
   * [Solar System JS](./MapFilterReduce/solarSystem.js) & [HTML](./MapFilterReduce/solarSystemIndex.html)
+  * [SpamSpamSpam JS](./MapFilterReduce/spamSpamSpam.js) & [HTML](./MapFilterReduce/spamSpamSpamIndex.html)
