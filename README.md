@@ -1,7 +1,6 @@
 # Small Exercises
 
-
-This repo holds a bunch of projects and exercises that require no more than one .js file and possibly one .html file. 
+This repo holds a bunch of projects and exercises that require no more than one .js file and possibly one .html file.
 
 * Basic Logic
   * [Chicken Monkey](./BasicLogic/ChickenMonkey.js)
@@ -21,7 +20,7 @@ This repo holds a bunch of projects and exercises that require no more than one 
   * [GovTrack](./PrintingToDOM/govtrack.html)
   * [Mod Squad JS](./Scope/ModSquad.js) & [HTML](./Scope/ModSquadIndex.html)
   * [DOM Components and Document Fragments JS](./PrintingToDOM/DOMComponents.js) & [HTML](./PrintingToDOM/DOMComponents.html)
-* Arrow Function and Map, Filter, Reduce
+* Arrow Function
   * [Grades JS](./ArrowSyntax/grades.js) & [HTML](./ArrowSyntax/gradesindex.html)
 * Arrays and Databases
   * [Rainfall](./Databases/rainfall.js)
@@ -31,3 +30,7 @@ This repo holds a bunch of projects and exercises that require no more than one 
 * Map, Filter, Reduce, ForEach, Etc.
   * [Solar System JS](./MapFilterReduce/solarSystem.js) & [HTML](./MapFilterReduce/solarSystemIndex.html)
   * [SpamSpamSpam JS](./MapFilterReduce/spamSpamSpam.js) & [HTML](./MapFilterReduce/spamSpamSpamIndex.html)
+  * [Chaining Methods JS](./MapFilterReduce/chainingMethods.js) & [HTML](./MapFilterReduce/chainingMethodsIndex.html)
+  * [Grades JS](./ArrowSyntax/grades.js) & [HTML](./ArrowSyntax/gradesindex.html)
+* Event Listeners
+  * [Event Listeners JS](./EventListeners/eventListeners.js) & [HTML](./EventListeners/eventListenersIndex.html)
