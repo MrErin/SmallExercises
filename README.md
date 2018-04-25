@@ -1,6 +1,6 @@
 # Small Exercises
 
-This repo holds a bunch of projects and exercises that require no more than one .js file and possibly one .html file.
+This repo holds a bunch of projects and exercises that require no more than two files (usually a .js and an .html).
 
 * Basic Logic
   * [Chicken Monkey](./BasicLogic/ChickenMonkey.js)
@@ -34,3 +34,5 @@ This repo holds a bunch of projects and exercises that require no more than one 
   * [Grades JS](./ArrowSyntax/grades.js) & [HTML](./ArrowSyntax/gradesindex.html)
 * Event Listeners
   * [Event Listeners JS](./EventListeners/eventListeners.js) & [HTML](./EventListeners/eventListenersIndex.html)
+* JSON
+  * [Database](./JSON/database.json) & [Routes](./JSON/routes.json)

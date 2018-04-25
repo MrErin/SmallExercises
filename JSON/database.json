@@ -1,0 +1,22 @@
+{
+    "food" : [
+        {
+            "name": "Linguine",
+            "type": "pasta",
+            "ethnicity": "wtf?",
+            "sideDishes": [ "asparagus", "squash"]
+        },
+        {
+            "name": "Curry",
+            "type": "curry",
+            "ethnicity": "again, wtf?",
+            "sideDishes": ["tom ka kai", "curry puffs"]
+        },
+        {
+            "name": "Green Curry",
+            "type": "curry",
+            "ethnicity": "again, wtf?",
+            "sideDishes": ["Chicken satee", "Samosa"]
+        }
+    ]
+}
