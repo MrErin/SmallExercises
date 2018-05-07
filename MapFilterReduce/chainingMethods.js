@@ -17,3 +17,8 @@ console.log(integers.map((integer) => (integer * 1.5) - 1))
 // Then output(either in the DOM or the console) the sum of all the resulting numbers.
 
 console.log(integers.reduce((currentTotal, next) => currentTotal + next))
+
+
+
+
+console.log(integers.sort((a, b) => b - a).filter(integer => integer < 19 ).map((integer) =>(integer * 1.5) - 1).reduce((currenTotal, next) => currenTotal + next))
