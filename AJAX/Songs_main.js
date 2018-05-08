@@ -26,12 +26,14 @@
            </section>
    */
 
+   const songList = $('#song-list')
 $('#load-songs').click(function(){
+    songList.empty()
     $.ajax({ url: "Songs_data.json", method: "GET"})
     .then(
         res => {
             res.songs.forEach(song =>{
-                $('#song-list').append(`<section class="song">
+                songList.append(`<section class="song">
                     <h1 class="song_title"> ${song.title} </h1>
                     <section class="song_description"> Performed by ${song.artist} on the album ${song.album}</section>
                     </section>`)
