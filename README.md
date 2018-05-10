@@ -27,6 +27,7 @@ This repo holds a bunch of projects and exercises that require no more than two 
 * CSS
   * [CSS Selectors CSS](./CSS/CSSSelectors.css) & [HTML](./CSS/CSSSelectorsIndex.html)
   * [Personality Website CSS](./CSS/PersonalityCSS.css) & [HTML](./CSS/PersonalityIndex.html)
+  * [CSS Pseudo Selectors CSS](./CSS/CSSPseudoSelectors.css) & [HTML](./CSS/CSSPseudoSelectors.html)
 * Map, Filter, Reduce, ForEach, Etc.
   * [Solar System JS](./MapFilterReduce/solarSystem.js) & [HTML](./MapFilterReduce/solarSystemIndex.html)
   * [SpamSpamSpam JS](./MapFilterReduce/spamSpamSpam.js) & [HTML](./MapFilterReduce/spamSpamSpamIndex.html)
@@ -35,7 +36,7 @@ This repo holds a bunch of projects and exercises that require no more than two 
 * Event Listeners
   * [Event Listeners JS](./EventListeners/eventListeners.js) & [HTML](./EventListeners/eventListenersIndex.html)
 * JSON
-  * [Database](./JSON/database.json) & [Routes](./JSON/routes.json)
+  * [Database](./JSON/database.json)
 * jQuery
   * [Basic Selectors JS](./jQuery/mini_challenges/1/Ex1_main.js) & [HTML](./jQuery/mini_challenges/1/Ex1_index.html)
   * [Event Handlers JS](./jQuery/mini_challenges/2/Ex2_main.js) & [HTML](./jQuery/mini_challenges/2/Ex2_index.html)
